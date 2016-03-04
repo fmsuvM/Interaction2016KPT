@@ -1,0 +1,15 @@
+markdown記法少し忘れ気味だったので, 思い出しながら書く.
+ここはmemo
+
+・Header...#, ###, ###, etc
+
+・Emphasis..._Txt_, *Txt*でイタリック体. __Txt__, **Txt**で太字
+
+・List...[Disc]:文頭に*,+,-のどれかを入れる. リストの上下に空行がないと
+         正しく表示されない. それぞれの記号の後にspaceが必要
+
+・Horizontal...***, * * *, *****, - - -. -------------------
+
+・Links...[LinkText](URL"Title")
+
+・Images...![代替テキスト](ImageURL"Title")
