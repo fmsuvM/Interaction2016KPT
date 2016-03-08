@@ -6,6 +6,8 @@
 #Keep
 * Slack等の連絡のresponseが早い
 
+* 部分部分の実装がそれなりに進んでいた
+
 
 
 #Problem
